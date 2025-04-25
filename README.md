@@ -28,8 +28,8 @@ Aim to improve **your skills** day after day, that's what really matters.
 Avoid conflicts. Getting into fights can lead to **serious trouble**, including being **kicked out** of the piscine. It might even cost you your second chance.
 
 ### 3. Never Cheat
-Cheating will get you **blacklisted** from the school — permanently.  
-No warnings. No second chances. Just don't do it.
+Cheating will get you **blacklisted** from the school permanently.  
+No warnings. No second chances.
 
 ---
 ## Finaly
