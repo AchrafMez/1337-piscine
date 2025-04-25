@@ -13,9 +13,8 @@ During these intense days, you build more than just technical skills you build *
 
 ![Memories](./medpool.jpg)
 
-
-
 ---
+
 
 ## A Few Words of Advice
 
@@ -42,7 +41,8 @@ Because part of what makes the piscine so special is **discovering it for yourse
 So go in with an open mind, a strong heart, and a willingness to learn.  
 
 
-## 📊 My C Piscine Progress
+---
+## 📊 My Progress
 
 | Project              | Score |
 |----------------------|-------|
