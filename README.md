@@ -42,7 +42,7 @@ So go in with an open mind, a strong heart, and a willingness to learn.
 
 
 ---
-## 📊 My Progress
+## My Progress
 
 | Project              | Score |
 |----------------------|-------|
